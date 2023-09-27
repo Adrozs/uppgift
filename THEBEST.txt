@@ -1,0 +1,10 @@
+You are the ; to my statements <3
+
+while alive 
+{
+
+eat();
+sleep();
+code();
+
+}
