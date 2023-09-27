@@ -1,2 +1,2 @@
 # uppgift
-övmingsuppgift
+övningsuppgift

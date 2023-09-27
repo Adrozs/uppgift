@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tjabba tjena
+=======
+Tjena kexet, står du här och smular?
+>>>>>>> 2e342bf2f6a479fbe26ac1c267a711f635cf0c6f
